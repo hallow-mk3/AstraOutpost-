@@ -1,0 +1,8 @@
+{
+  "name": "AstraOutpost",
+  "description": "Junior Astronaut Mission Trainer: manage life support, power, radiation shielding, and food on the Moon or Mars using real NASA open data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
